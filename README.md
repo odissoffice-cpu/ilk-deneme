@@ -1,1 +1,2 @@
-# ilk-deneme
+"Merhaba GitHub, ben geldim!"
+
